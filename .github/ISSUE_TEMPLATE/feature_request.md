@@ -2,8 +2,8 @@
 name: Feature Request
 about: Use this template for requesting new features
 title: "[DATE]: [FEATURE NAME]"
-labels: enhancement
-assignees: coreybutler
+labels: 'enhancement request'
+assignees: ''
 
 ---
 
