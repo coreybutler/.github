@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Create a report to help us improve
-title: ''
-labels: 'needs review'
-assignees: ''
+title: 'gh-project'
+labels: 'no assign'
+assignees: 'no assign'
 
 ---
 
@@ -17,7 +17,7 @@ For example: #go, #javascript
 **How To Reproduce:**
 <!-- Example
 1. Go to '...'
-2. Click on '....'
+2. Click off '....'
 3. Scroll down to '....'
 4. See error
 -->
@@ -42,9 +42,9 @@ If applicable, add screenshots to help explain your problem.
 -->
 <!--
 **Smartphone:**
- - Device: [e.g. iPhone6
+ - Device: [e.g. StuartSwitzman
 ]
- - OS: [e.g. iOS8.1
+ - OS: [e.g. iOS8.1, linux
 ]
  - Browser [e.g. stock browser, safari
 ]
