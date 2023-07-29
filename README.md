@@ -1,2 +1,2 @@
-# .github
+# gh-project
 Defaults
